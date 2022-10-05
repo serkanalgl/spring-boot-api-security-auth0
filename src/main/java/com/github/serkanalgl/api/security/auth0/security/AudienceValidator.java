@@ -1,4 +1,4 @@
-package org.github.serkanalgl.api.security.auth0.security;
+package com.github.serkanalgl.api.security.auth0.security;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.oauth2.core.OAuth2Error;

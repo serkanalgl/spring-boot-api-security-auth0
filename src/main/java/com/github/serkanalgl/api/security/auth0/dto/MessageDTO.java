@@ -1,4 +1,4 @@
-package org.github.serkanalgl.api.security.auth0.dto;
+package com.github.serkanalgl.api.security.auth0.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

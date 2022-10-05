@@ -1,10 +1,9 @@
-package org.github.serkanalgl.api.security.auth0.controller;
+package com.github.serkanalgl.api.security.auth0.controller;
 
 import lombok.extern.slf4j.Slf4j;
-import org.github.serkanalgl.api.security.auth0.dto.MessageDTO;
+import com.github.serkanalgl.api.security.auth0.dto.MessageDTO;
 import org.springframework.http.MediaType;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

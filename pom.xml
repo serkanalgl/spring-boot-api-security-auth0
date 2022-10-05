@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.github.serkanalgl</groupId>
+    <groupId>com.github.serkanalgl</groupId>
     <artifactId>spring-boot-api-security-auth0</artifactId>
     <version>1.0-SNAPSHOT</version>
 

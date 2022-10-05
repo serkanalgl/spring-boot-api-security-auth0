@@ -1,4 +1,4 @@
-package org.github.serkanalgl.api.security.auth0.security;
+package com.github.serkanalgl.api.security.auth0.security;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
